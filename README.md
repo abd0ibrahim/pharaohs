@@ -1,6 +1,6 @@
 # pharaohs
 
-A new Flutter project.
+![my badge](https://img.shields.io/badge/Made%20with-Flutter-blue?style=for-the-badge&logo=flutter)
 
 ## Getting Started
 
